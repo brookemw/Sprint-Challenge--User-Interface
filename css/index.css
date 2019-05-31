@@ -99,6 +99,10 @@ nav a {
     border-bottom: 1px dashed black;
     padding: 10px 10px 20px 10px;
 }
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
 
 .module {
     display: flex;
